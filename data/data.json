@@ -7,14 +7,5 @@
         "birthyear":"1990",
         "email": "hola",
         "password": "123456"
-    },
-    {
-        "firstname":"Juanc",
-        "lastname":"Arlos",
-        "birthday":"14",
-        "birthmonth":"November",
-        "birthyear":"1990",
-        "email": "hola",
-        "password": "123456"
     }
 ]

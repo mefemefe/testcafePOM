@@ -4,9 +4,12 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "testcafe": "^1.17.1"
+    "testcafe": "^1.17.1",
+    "testcafe-reporter-html": "^1.4.6"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "testcafe-reporter-allure": "npm:@isaac.frontend/testcafe-reporter-allure@^2.3.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
