@@ -19,6 +19,6 @@ jobs:
       - name: install and run
         uses: DevExpress/testcafe-action@latest
           with:
-            args: "chrome tests"
+            args: "chrome test"
 
       
